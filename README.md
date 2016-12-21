@@ -1,2 +1,2 @@
-# lsdmlt
-Large scale distribute machine learning tools
+# LSDMLT
+Large Scale Distribute Machine Learning Tools
